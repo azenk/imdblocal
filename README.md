@@ -1,4 +1,5 @@
-=== IMDB Local ===
+IMDB Local
+==========
 
 Library for building and maintaining a local copy of the IMDb database.
 
